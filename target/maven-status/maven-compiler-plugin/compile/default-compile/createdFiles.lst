@@ -1,7 +1,0 @@
-com\wildfly\mybatis\App.class
-controller\delDocument.class
-com\wildfly\mybatis\bean\Document.class
-com\wildfly\mybatis\mapper\DocumentMapper.class
-controller\updDocument.class
-com\wildfly\mybatis\config\AppConfig.class
-controller\addDocument.class
