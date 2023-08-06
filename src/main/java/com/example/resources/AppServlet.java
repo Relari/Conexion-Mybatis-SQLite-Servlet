@@ -17,7 +17,7 @@ public class AppServlet extends HttpServlet {
 
 		// Procesar la petición GET
 		String mensaje = "Hola desde el servlet!";
-		request.setAttribute("mensaje", mensaje);
+		request.setAttribute("message", mensaje);
 
 		// Redireccionar a la página JSP
 		request.getRequestDispatcher("/WEB-INF/index.jsp").forward(request, response);
